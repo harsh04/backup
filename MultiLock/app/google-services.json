@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "142009907423",
+    "firebase_url": "https://multilock-app.firebaseio.com",
+    "project_id": "multilock-app",
+    "storage_bucket": "multilock-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:142009907423:android:c39a114dff70f2c7",
+        "android_client_info": {
+          "package_name": "com.webconsole.harshmathur.multilock"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "142009907423-b6mgam87ilus178eald986iaab3qi346.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.webconsole.harshmathur.multilock",
+            "certificate_hash": "3B2D5C744C0E3387E4C96B2089D92884578F69A6"
+          }
+        },
+        {
+          "client_id": "142009907423-qn7qbmmi68adqrt3shunp4jckeptcte4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhktgtCC0wDrBgktpcwbTWDVQ7VAV-0lo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "142009907423-qn7qbmmi68adqrt3shunp4jckeptcte4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
